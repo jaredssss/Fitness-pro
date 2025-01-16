@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
   let seconds = 0;
   let currentWorkout = null;
   
-  const PAYMENT_LINK = "https://your-payment-link.com";
+  const PAYMENT_LINK = "https://dub.sh/profitness";
   const UNLOCK_CODE = "xyz";
 
   const workouts = [
